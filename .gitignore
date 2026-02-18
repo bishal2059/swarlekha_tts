@@ -1,0 +1,7 @@
+weights/s3gen.safetensors
+weights/t3_cfg.safetensors
+weights/ve.safetensors
+
+sample/harvard.wav
+
+t3_cfg.txt
