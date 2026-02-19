@@ -2,6 +2,6 @@ weights/s3gen.safetensors
 weights/t3_cfg.safetensors
 weights/ve.safetensors
 
-sample/harvard.wav
+sample/
 
 t3_cfg.txt
